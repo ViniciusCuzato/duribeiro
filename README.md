@@ -1,8 +1,8 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    Olá Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/edududuribeiro/">Vinicius Cuzato 😃️</a>
   </h1>
   
   <p align="center">
